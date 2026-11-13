@@ -17,7 +17,7 @@
 
 ---
 
-## 💡 Sobre o repositório
+## <img src="assets/icons/lightbulb.svg" width="20" height="20" alt=""> Sobre o repositório
 
 Este repositório reúne **todos os arquivos da marca SouzaX em um só lugar**, organizados por finalidade. A ideia é que qualquer pessoa (desenvolvedor, designer ou parceiro) encontre rapidamente a versão certa do logo para cada situação, sem precisar exportar ou redimensionar nada:
 
@@ -28,7 +28,7 @@ Este repositório reúne **todos os arquivos da marca SouzaX em um só lugar**, 
 
 Nos arquivos SVG os textos já estão **convertidos em curvas**, então não é preciso ter as fontes instaladas.
 
-## 🖼️ Visão geral
+## <img src="assets/icons/images.svg" width="20" height="20" alt=""> Visão geral
 
 <p align="center">
   <img src="00-visao-geral.png" alt="Visão geral da marca SouzaX" width="800">
@@ -36,7 +36,7 @@ Nos arquivos SVG os textos já estão **convertidos em curvas**, então não é 
 
 ---
 
-## 📁 Estrutura
+## <img src="assets/icons/folder-tree.svg" width="20" height="20" alt=""> Estrutura
 
 ```
 souzax-brand/
@@ -49,6 +49,7 @@ souzax-brand/
 ├── 06-programas-e-sistema/   Ícones Windows (.ico) e macOS (.icns)
 ├── 07-pwa/                   Ícones PWA + manifest.json
 ├── 08-outros-formatos/       Símbolo em SVG, PNG, ICO e ICNS
+├── assets/icons/             Ícones Font Awesome usados neste README
 └── 00-visao-geral.png        Painel com todas as variações
 ```
 
@@ -66,7 +67,7 @@ souzax-brand/
 
 ---
 
-## 🅰️ Logo principal
+## <img src="assets/icons/star.svg" width="20" height="20" alt=""> Logo principal
 
 | Fundo escuro | Fundo claro |
 |:---:|:---:|
@@ -75,7 +76,7 @@ souzax-brand/
 
 Também disponível com fundo transparente: [`souzax-logo-horizontal-transparente.png`](00-logo-principal/souzax-logo-horizontal-transparente.png) e em vetor: [`souzax-logo-horizontal.svg`](00-logo-principal/souzax-logo-horizontal.svg).
 
-## ✴️ Ícone principal
+## <img src="assets/icons/shapes.svg" width="20" height="20" alt=""> Ícone principal
 
 <p>
   <img src="01-icone-principal/souzax-icone-256x256.png" alt="Ícone 256" width="128">
@@ -86,14 +87,14 @@ Também disponível com fundo transparente: [`souzax-logo-horizontal-transparent
 
 Tamanhos: 512, 256, 128, 64 e 32 px + [`souzax-icone.svg`](01-icone-principal/souzax-icone.svg).
 
-## 📱 Favicon e ícones de app
+## <img src="assets/icons/mobile-screen-button.svg" width="20" height="20" alt=""> Favicon e ícones de app
 
 | Escuro | Branco | Laranja | Redondo preto | Redondo branco |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="02-favicon-e-apps/app-escuro-512x512.png" width="110" alt="App escuro"> | <img src="02-favicon-e-apps/app-branco-512x512.png" width="110" alt="App branco"> | <img src="02-favicon-e-apps/app-laranja-512x512.png" width="110" alt="App laranja"> | <img src="02-favicon-e-apps/app-redondo-preto-180x180.png" width="110" alt="App redondo preto"> | <img src="02-favicon-e-apps/app-redondo-branco-180x180.png" width="110" alt="App redondo branco"> |
 | 512×512 | 512×512 | 512×512 | 180×180 | 180×180 |
 
-## 🌐 Banners para redes sociais
+## <img src="assets/icons/share-nodes.svg" width="20" height="20" alt=""> Banners para redes sociais
 
 | OG Image (1200×630) | Twitter / X (800×418) |
 |:---:|:---:|
@@ -103,13 +104,13 @@ Tamanhos: 512, 256, 128, 64 e 32 px + [`souzax-icone.svg`](01-icone-principal/so
 |:---:|:---:|
 | <img src="03-banner-redes-sociais/instagram-1080x1080.png" alt="Instagram" width="260"> | <img src="03-banner-redes-sociais/linkedin-400x400.png" alt="LinkedIn" width="260"> |
 
-## 🧱 Logo empilhada
+## <img src="assets/icons/layer-group.svg" width="20" height="20" alt=""> Logo empilhada
 
 | Escura | Branca | Laranja | Símbolo transparente |
 |:---:|:---:|:---:|:---:|
 | <img src="04-marcas-versoes/souzax-empilhada-escura-400x400.png" width="160" alt="Empilhada escura"> | <img src="04-marcas-versoes/souzax-empilhada-branca-400x400.png" width="160" alt="Empilhada branca"> | <img src="04-marcas-versoes/souzax-empilhada-laranja-400x400.png" width="160" alt="Empilhada laranja"> | <img src="04-marcas-versoes/souzax-simbolo-transparente-400x400.png" width="160" alt="Símbolo transparente"> |
 
-## 🎨 Versões de cores
+## <img src="assets/icons/palette.svg" width="20" height="20" alt=""> Versões de cores
 
 | Colorida | Fundo escuro | Fundo claro | Laranja | Branca | Preta |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -117,13 +118,13 @@ Tamanhos: 512, 256, 128, 64 e 32 px + [`souzax-icone.svg`](01-icone-principal/so
 
 > A versão **branca** é transparente e pode ficar invisível no tema claro do GitHub; a **preta**, no tema escuro. Os arquivos estão corretos.
 
-## 💻 Programas e sistema
+## <img src="assets/icons/desktop.svg" width="20" height="20" alt=""> Programas e sistema
 
 | Windows (`.ico` + PNG 16–256 px) | macOS (`.icns` + PNG 1024 px) |
 |:---:|:---:|
 | <img src="06-programas-e-sistema/windows/souzax-256x256.png" width="128" alt="Windows"> | <img src="06-programas-e-sistema/macos/souzax-1024x1024.png" width="128" alt="macOS"> |
 
-## 📲 PWA
+## <img src="assets/icons/globe.svg" width="20" height="20" alt=""> PWA
 
 <p>
   <img src="07-pwa/icons/icon-192x192.png" width="96" alt="PWA 192">
@@ -134,7 +135,7 @@ Tamanhos: 512, 256, 128, 64 e 32 px + [`souzax-icone.svg`](01-icone-principal/so
 
 ---
 
-## 🎨 Paleta de cores
+## <img src="assets/icons/fill-drip.svg" width="20" height="20" alt=""> Paleta de cores
 
 | Uso | Cor | Hex |
 |---|---|---|
@@ -142,7 +143,7 @@ Tamanhos: 512, 256, 128, 64 e 32 px + [`souzax-icone.svg`](01-icone-principal/so
 | Prata do "S" (degradê) | ![#FFFFFF](https://placehold.co/16x16/FFFFFF/FFFFFF.png) ![#B4B4B4](https://placehold.co/16x16/B4B4B4/B4B4B4.png) | `#FFFFFF` → `#B4B4B4` |
 | Fundo | ![#0A0A0A](https://placehold.co/16x16/0A0A0A/0A0A0A.png) | `#0A0A0A` |
 
-## 🔤 Tipografia
+## <img src="assets/icons/font.svg" width="20" height="20" alt=""> Tipografia
 
 | Elemento | Fonte |
 |---|---|
@@ -151,7 +152,7 @@ Tamanhos: 512, 256, 128, 64 e 32 px + [`souzax-icone.svg`](01-icone-principal/so
 
 ---
 
-## 🚀 Como usar no site
+## <img src="assets/icons/code.svg" width="20" height="20" alt=""> Como usar no site
 
 1. Copie para a raiz pública do projeto:
    - `02-favicon-e-apps/favicon.ico`
@@ -168,7 +169,7 @@ Tamanhos: 512, 256, 128, 64 e 32 px + [`souzax-icone.svg`](01-icone-principal/so
 <meta property="og:image" content="https://SEU-DOMINIO/og-image-1200x630.png">
 ```
 
-## ✅ Boas práticas de uso
+## <img src="assets/icons/circle-check.svg" width="20" height="20" alt=""> Boas práticas de uso
 
 - Prefira os arquivos **SVG** sempre que possível (escalam sem perder qualidade).
 - Em fundos escuros, use a versão **colorida** ou **branca**; em fundos claros, a **colorida para fundo claro** ou **preta**.
@@ -179,5 +180,6 @@ Tamanhos: 512, 256, 128, 64 e 32 px + [`souzax-icone.svg`](01-icone-principal/so
 
 <p align="center">
   <img src="01-icone-principal/souzax-icone-64x64.png" width="32" alt="SX"><br>
-  <sub><strong>SouzaX</strong> · Desenvolvimento • Inovação • Tecnologia</sub>
+  <sub><strong>SouzaX</strong> · Desenvolvimento • Inovação • Tecnologia</sub><br>
+  <sub>Ícones: <a href="https://fontawesome.com">Font Awesome Free</a> (CC BY 4.0)</sub>
 </p>
